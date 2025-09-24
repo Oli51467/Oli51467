@@ -1,20 +1,20 @@
-## About Me🤩 
+## About Me🤩
 
 Hello! I'm a software engineer with a passion for building robust systems and exploring cutting-edge AI technologies. ✨
 
-🎓 **教育背景** Master Degree in SDU CS 🏫
+🎓 **Education** Master’s Degree in Computer Science at SDU 🏫 — Major: Natural Language Processing (NLP)
 
-💼 **实习经历** Meituan Tec. 🦘
+💼 **Internship** Meituan Tech. 🦘
 
-🛠️ **技术栈**
+🛠️ **Tech Stack**
 
-- **后端**：Java ☕、Spring Boot、MySQL 🛢️、Redis 🚀、Kafka 📨、Docker 🐳
-- **前端**：JavaScript💻、Vue🖖、Electron 🎨
-- **AI**：Python 🐍、PyTorch 🔥、Transformers 🤖、提示工程📖、RAG 系统🤖️
+- **Backend**: Java ☕, Spring Boot, MySQL 🛢️, Redis 🚀, Kafka 📨, Docker 🐳
+- **Frontend**: JavaScript 💻, Vue 🖖, Electron 🎨
+- **AI**: Python 🐍, PyTorch 🔥, Transformers 🤖, Prompt Engineering 📖, RAG Systems 🤖️
 
-🔭 **近期探索**
+🔭 **Current Focus**
 
-- 大模型微调与领域适配技术 🧠
-- 基于SYCL/DPC++的深度学习算子开发🧮
-- 全栈应用开发 🌐
-- 构建 AI 驱动的生产力工具 🛠️
+- Fine-tuning LLMs and domain adaptation 🧠
+- Developing deep learning operators with SYCL/DPC++ 🧮
+- Full-stack application development 🌐
+- Building AI-powered productivity tools 🛠️
