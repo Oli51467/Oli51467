@@ -8,9 +8,9 @@ Hi there👋! I'm a software engineer with a passion for building robust systems
 
 🛠️ **Tech Stack**
 
-- **Backend**: Java ☕, Spring Boot, MySQL 🛢️, Redis 🚀, Kafka 📨, Docker 🐳
+- **Backend**: C++ 📨, Docker 🐳, Java ☕, Go 🐭, Node🛠, Python 🐍
 - **Frontend**: JavaScript 💻, Vue 🖖, Electron 🎨
-- **AI**: Python 🐍, PyTorch 🔥, Transformers 🤖, Prompt Engineering 📖, RAG Systems 🤖️
+- **AI**: PyTorch 🔥, Finr-tune🤖, Milvus, vLLM, Codex 📖, Cursor🤖️
 
 🔭 **Current Focus**
 
