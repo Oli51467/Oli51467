@@ -2,9 +2,9 @@
 
 Hi there👋! I'm a software engineer with a passion for building robust systems and exploring cutting-edge AI technologies. ✨
 
-🎓 **Education** Master’s Degree in Computer Science and Technical at SDU 🏫 — Major in Natural Language Processing (NLP)
+🎓 **Education** Master’s Degree in Computer Science and Technical at SDU 🏫 — Major in Natural Language Processing
 
-💼 **Internship** Meituan Tech. 🦘
+💼 **Internship & Working** Meituan Tech. 🦘
 
 🛠️ **Tech Stack**
 
