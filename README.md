@@ -6,11 +6,7 @@ Hi there👋! I'm a software engineer with a passion for building robust systems
 
 💼 **Internship & Working** Meituan Tech. 🦘
 
-🛠️ **Tech Stack**
-
-- **Backend**: C++ 📨, Docker 🐳, Java ☕, Go 🐭, Node🛠, Python 🐍
-- **Frontend**: JavaScript 💻, Vue 🖖, Electron 🎨
-- **AI**: PyTorch 🔥, Finr-tune🤖, Milvus, vLLM, Codex 📖, Cursor🤖️
+🛠️ **Tech Stack** C++ 📨, Java ☕, Go 🐭, PyTorch 🔥, vLLM
 
 🔭 **Current Focus**
 
