@@ -2,7 +2,7 @@
 
 Software engineer focused on LLM systems and AI-powered tools.
 
-Currently building **[Starfish](https://github.com/yourname/starfish)** — an AI research engine for academic knowledge graph exploration.
+Currently building **[Starfish](https://github.com/Oli51467/starfish)** — an AI research engine for academic knowledge graph exploration.
 
 ## Tech Stack
 
