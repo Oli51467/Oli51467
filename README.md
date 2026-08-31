@@ -33,5 +33,3 @@ An evidence-first A-share research workspace built with Vue 3, FastAPI and Postg
 - 🎓 M.S. Computer Science · Shandong University · [IRLab](https://gail.sdu.edu.cn/)
 - 💼 Internship · Meituan Tech · [Meituan](https://www.meituan.com/)
 
-<!-- Uses the maintained masterrstaa-rickstaa deployment to avoid outages on the shared default endpoint. -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Oli51467&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
